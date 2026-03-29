@@ -120,7 +120,7 @@ onnxruntime==1.16.0
 openai==0.28.0
 opencv-python==4.8.0.76
 openpyxl==3.1.2
-orjson==3.9.9
+orjson==3.11.6
 overrides==7.4.0
 packaging==23.1
 pandas==2.1.0

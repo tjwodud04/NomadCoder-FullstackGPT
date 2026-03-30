@@ -210,7 +210,7 @@ toml==0.10.2
 toolz==0.12.0
 torch==2.0.1
 torchvision==0.15.2
-tornado==6.3.3
+tornado==6.5.5
 tqdm==4.66.1
 traitlets==5.10.0
 transformers==4.34.0

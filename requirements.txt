@@ -110,7 +110,7 @@ murmurhash==1.0.10
 mypy-extensions==1.0.0
 nest-asyncio==1.5.8
 networkx==3.1
-nltk==3.8.1
+nltk==3.9.4
 numexpr==2.8.5
 numpy==1.25.2
 olefile==0.46

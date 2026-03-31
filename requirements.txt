@@ -208,7 +208,7 @@ timm==0.9.7
 tokenizers==0.14.0
 toml==0.10.2
 toolz==0.12.0
-torch==2.0.1
+torch==2.8.0
 torchvision==0.15.2
 tornado==6.5.5
 tqdm==4.66.1

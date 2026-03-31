@@ -151,7 +151,7 @@ pydantic==1.10.12
 pydantic_core==2.6.3
 pydeck==0.8.0
 pydub==0.25.1
-Pygments==2.16.1
+Pygments==2.20.0
 Pympler==1.0.1
 pypandoc==1.11
 pyparsing==3.1.1

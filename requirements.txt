@@ -93,7 +93,7 @@ langcodes==3.3.0
 langsmith==0.7.31
 layoutparser==0.3.4
 loguru==0.7.2
-lxml==4.9.3
+lxml==6.1.0
 manifest-ml==0.0.1
 Markdown==3.8.1
 markdown-it-py==3.0.0
